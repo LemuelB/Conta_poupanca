@@ -1,0 +1,7 @@
+C:\Users\Lemuel\source\repos\Conta poupança\Conta poupança\obj\Debug\Conta poupança.csprojAssemblyReference.cache
+C:\Users\Lemuel\source\repos\Conta poupança\Conta poupança\obj\Debug\Conta poupança.csproj.CoreCompileInputs.cache
+C:\Users\Lemuel\source\repos\Conta poupança\Conta poupança\bin\Debug\Conta poupança.exe.config
+C:\Users\Lemuel\source\repos\Conta poupança\Conta poupança\bin\Debug\Conta poupança.exe
+C:\Users\Lemuel\source\repos\Conta poupança\Conta poupança\bin\Debug\Conta poupança.pdb
+C:\Users\Lemuel\source\repos\Conta poupança\Conta poupança\obj\Debug\Conta poupança.exe
+C:\Users\Lemuel\source\repos\Conta poupança\Conta poupança\obj\Debug\Conta poupança.pdb
